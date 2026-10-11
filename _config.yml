@@ -1,0 +1,15 @@
+# Pages copia el HTML/CSS sin plantillas ni front matter.
+# No añadir .nojekyll: desactivaría estas exclusiones de publicación.
+title: DHANCRI Studio
+url: https://dhancri.com
+baseurl: ""
+theme: null
+plugins: []
+publish_drafts: false
+exclude:
+  - _legal
+  - docs
+  - design
+  - scripts
+  - README.md
+  - .gitignore

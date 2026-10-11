@@ -1,0 +1,21 @@
+__pycache__/
+_site/
+.jekyll-cache/
+.DS_Store
+
+# Credenciales y configuración privada local; los ejemplos sí pueden versionarse.
+.env
+.env.*
+!.env.example
+!.env.sample
+/.aws/
+/.ssh/
+
+# Entornos y archivos temporales de desarrollo.
+.venv/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+*.swo
+*~

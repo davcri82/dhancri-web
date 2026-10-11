@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-labelledby="title desc">
+  <title id="title">Ejemplo conceptual de lógica Ladder</title>
+  <desc id="desc">Un contacto normalmente abierto I0.0 conectado a una bobina Q0.0 entre dos barras. No es una captura de Automation Trainer.</desc>
+  <g fill="none" stroke="#8cb9d8" stroke-width="2.5">
+    <path d="M48 45v130M512 45v130M48 110h120m28 0h180m48 0h88"/>
+    <path d="M168 90v40m28-40v40" stroke="#00aeef" stroke-width="3"/>
+    <path d="M386 88q-20 22 0 44m28-44q20 22 0 44" stroke="#00aeef" stroke-width="3"/>
+  </g>
+  <g fill="#e2edf5" text-anchor="middle" font-family="ui-monospace, monospace" font-size="14">
+    <text x="182" y="66">I0.0</text><text x="400" y="66">Q0.0</text>
+  </g>
+  <g fill="#b4c6d4" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" letter-spacing="1">
+    <text x="182" y="161">ENTRADA</text><text x="400" y="161">SALIDA</text>
+  </g>
+</svg>
